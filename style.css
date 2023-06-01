@@ -1,0 +1,96 @@
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+html {
+  background-image: url(img/IMG_6248.JPG);
+  background-repeat: repeat;
+  background-position: center 25%;
+  background-blend-mode: darken;
+}
+
+.words {
+  background: rgba(255, 255, 255, 0.308);
+  width: 600px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.homeword {
+  width: 600px;
+  padding: 150px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+a {
+  font-size: larger;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+}
+
+input {
+  padding: 2px 10px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+button {
+  padding: 5px 5px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+button:hover {
+  size: 5px;
+}
+
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+button {
+  background: linear-gradient(to bottom right, #94167f, #008cba);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.nav {
+  font-weight: 50px;
+}
+.crybaby {
+  color: black;
+}
+.crybaby:hover {
+  color: yellow;
+}
+
+a {
+  color: #000000;
+}
